@@ -10,19 +10,16 @@ Contact:
  <br/>
  ☎ 89520322005
 </div>
-<div align=center><img width='500' src='[https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_3299.PNG](https://disk.yandex.kz/client/disk/Runisoft1204?idApp=client&dialog=slider&idDialog=%2Fdisk%2FRunisoft1204%2FIMG_2987.JPG)'></img></div>
+<div align=center><img width='500' src='https://user-images.githubusercontent.com/115625017/199911094-3b1910a7-a7de-4bed-a9c2-2554c4a01d91.JPG'></img></div>
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
-  <a href='#'><img src='/IMG/icons8-html-5-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-css3-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-javascript-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-react-native-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-redux-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-node-js-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-postgresql-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-git-48.png'></img></a>
-  <a href='#'><img src='/IMG/icons8-github-48.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911390-57cd77b9-1d53-45b3-876f-4ae1d0400412.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911609-05e8f88f-8382-42e6-884b-8bdb4f4d4158.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199913730-c154672e-1505-485c-bf8e-a24f1177e385.png'></img></a>
   </br>
   </br>
   
