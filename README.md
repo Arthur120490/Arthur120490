@@ -1,6 +1,42 @@
-<h1 align="center">Hello world, I'm <a href="#" target="_blank">Arthur</a> 
-<img src="https://yandex.kz/images/search?text=картинки%20для%20гитхаба&stype=image&lr=164&source=serp&p=7&pos=438&rpt=simage&img_url=http%3A%2F%2Fimg.besthqwallpapers.com%2FUploads%2F2-1-2021%2F150010%2Fgithub-red-logo-4k-red-brickwall-github-logo-social-networks.jpg"/></h1>
-<h3 align="center">I am a junior frontend developer
+<h1 align="center"> Hello world, I'm Arthur
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">🚀 I am a junior frontend JS Developer</h3>
+<div align="center">
+<h4>Nice to meet you<h4/>
+<h5>I am interested in JS, travel and sports. I like to skate, snowboard, and ride horses. 🧗<h5/>
+Contact: 
+ <br/>
+<a href='https://mail.yandex.ru/compose?mailto=Artur.Mineev@bk.ru'>📩Artur.Mineev@bk.ru<a/>
+ <br/>
+ ☎ 89520322005
+</div>
+<div align=center><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_3299.PNG'></img></div>
+<br/>
+<div align="center">
+  <h2>Technologies and Tools I use 🛠️</h2>
+  <a href='#'><img src='/IMG/icons8-html-5-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-css3-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-javascript-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-react-native-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-redux-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-node-js-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-postgresql-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-git-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-github-48.png'></img></a>
+  </br>
+  </br>
+  
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Material UI, Bootstrap, Materialize</span></br>
+  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
+  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
+  <span>**Other:** Git, GitHub, VS Code</span></br>
+</div>
+<h2 align="center">Let's get connected 🤝</h2>
+<div align="center">
+  <a href='https://telegram.me/artur mineev' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+  <a href='https://instagram.com/arthurmineev=nametag' target="_blank"><img src='/IMG/icons8-instagram-48.png'></img></a>
+</div>
+
 Here are some ideas to get you started:
 
 🔭 I’m currently working on java script frontend development
