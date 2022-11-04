@@ -30,8 +30,8 @@ Contact:
 </div>
 <h2 align="center">Let's get connected 🤝</h2>
 <div align="center">
-  <a href='https://telegram.me/artur mineev' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916613-a4aafc0b-348f-45fc-a8b3-9a33beadccc0.png'"width="50" height="100"></img></a>
-  <a href='https://instagram.com/arthurmineev=nametag' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916762-9884f52b-031a-46b1-804e-ee725d123c37.png'"width="50" height="100"></img></a>
+  <a href='https://telegram.me/artur mineev' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916613-a4aafc0b-348f-45fc-a8b3-9a33beadccc0.png'"width="25" height="25"></img></a>
+  <a href='https://instagram.com/arthurmineev=nametag' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916762-9884f52b-031a-46b1-804e-ee725d123c37.png'"width="25" height="25"></img></a>
 </div>
 
 Here are some ideas to get you started:
