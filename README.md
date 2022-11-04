@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Arthur</a> 
+<h1 align="center">Hello world, I'm <a href="#" target="_blank">Arthur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a junior frontend developer
-**Arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2 aligh="center">img src="https://yandex.kz/images/search?text=картинки%20для%20гитхаба&stype=image&lr=164&source=serp&p=7&pos=438&rpt=simage&img_url=http%3A%2F%2Fimg.besthqwallpapers.com%2FUploads%2F2-1-2021%2F150010%2Fgithub-red-logo-4k-red-brickwall-github-logo-social-networks.jpg"/>h2
 
 Here are some ideas to get you started:
 
