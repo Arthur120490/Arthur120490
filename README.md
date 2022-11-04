@@ -14,12 +14,12 @@ Contact:
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911390-57cd77b9-1d53-45b3-876f-4ae1d0400412.png'></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911609-05e8f88f-8382-42e6-884b-8bdb4f4d4158.png'></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199913730-c154672e-1505-485c-bf8e-a24f1177e385.png'></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911390-57cd77b9-1d53-45b3-876f-4ae1d0400412.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911609-05e8f88f-8382-42e6-884b-8bdb4f4d4158.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199913730-c154672e-1505-485c-bf8e-a24f1177e385.png'"width="50" height="100"></img></a>
   </br>
   </br>
   
@@ -30,8 +30,8 @@ Contact:
 </div>
 <h2 align="center">Let's get connected 🤝</h2>
 <div align="center">
-  <a href='https://telegram.me/artur mineev' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916613-a4aafc0b-348f-45fc-a8b3-9a33beadccc0.png'></img></a>
-  <a href='https://instagram.com/arthurmineev=nametag' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916762-9884f52b-031a-46b1-804e-ee725d123c37.png'></img></a>
+  <a href='https://telegram.me/artur mineev' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916613-a4aafc0b-348f-45fc-a8b3-9a33beadccc0.png'"width="50" height="100"></img></a>
+  <a href='https://instagram.com/arthurmineev=nametag' target="_blank"><img src='https://user-images.githubusercontent.com/115625017/199916762-9884f52b-031a-46b1-804e-ee725d123c37.png'"width="50" height="100"></img></a>
 </div>
 
 Here are some ideas to get you started:
