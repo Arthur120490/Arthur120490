@@ -10,7 +10,7 @@ Contact:
  <br/>
  ☎ 89520322005
 </div>
-<div align=center><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_3299.PNG'></img></div>
+<div align=center><img width='500' src='[https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_3299.PNG](https://disk.yandex.kz/client/disk/Runisoft1204?idApp=client&dialog=slider&idDialog=%2Fdisk%2FRunisoft1204%2FIMG_2987.JPG)'></img></div>
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
