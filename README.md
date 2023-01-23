@@ -1,6 +1,6 @@
 <h1 align="center"> Hello world, I'm Arthur
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🚀 I am a junior frontend JS Developer</h3>
+<h3 align="center">🚀 I am a frontend JS Developer</h3>
 <div align="center">
 <h4>Nice to meet you<h4/>
 <h5>I am interested in JS, travel and sports. I like to skate, snowboard, and ride horses. 🧗<h5/>
