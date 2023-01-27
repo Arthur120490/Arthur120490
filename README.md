@@ -10,7 +10,7 @@ Contact:
  <br/>
  ☎ 89520322005
 </div>
-<div align=center><img width='500' src='https://user-images.githubusercontent.com/115625017/199911094-3b1910a7-a7de-4bed-a9c2-2554c4a01d91.JPG'></img></div>
+
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
