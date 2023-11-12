@@ -19,11 +19,11 @@ Contact:
   <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'"width="50" height="100"></img></a>
   <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'"width="50" height="100"></img></a>
   <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'"width="50" height="100"></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199913730-c154672e-1505-485c-bf8e-a24f1177e385.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://masteringjs.io/assets/images/vue/vue-transparent.png'"width="50" height="100"></img></a>
   </br>
   </br>
   
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Material UI, Bootstrap, Materialize</span></br>
+  <span>**Frontend:** JavaScript, Vue 3, TypeScript, Redux, Saga, Thunk, HTML5, CSS3, Material UI, Bootstrap, Materialize</span></br>
   <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, VS Code</span></br>
