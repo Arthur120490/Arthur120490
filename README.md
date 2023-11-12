@@ -14,11 +14,11 @@ Contact:
 <br/>
 <div align="center">
   <h2>Technologies and Tools I use 🛠️</h2>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911390-57cd77b9-1d53-45b3-876f-4ae1d0400412.png'"width="50" height="100"></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911609-05e8f88f-8382-42e6-884b-8bdb4f4d4158.png'"width="50" height="100"></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'"width="50" height="100"></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'"width="50" height="100"></img></a>
-  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'"width="50" height="100"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911390-57cd77b9-1d53-45b3-876f-4ae1d0400412.png'"width="25" height="50"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911609-05e8f88f-8382-42e6-884b-8bdb4f4d4158.png'"width="25" height="50"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199911867-6c26dc92-8427-4940-804d-1a3f7653b1a3.png'"width="25" height="50"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912014-edeb8772-ff20-4af1-a2a1-2a140e05600e.png'"width="25" height="50"></img></a>
+  <a href='#'><img src='https://user-images.githubusercontent.com/115625017/199912332-c1afe119-265a-40db-9eed-04a12222fa58.png'"width="25" height="50"></img></a>
   <a href='#'><img src='https://masteringjs.io/assets/images/vue/vue.png'"width="50" height="100"></img></a>
   </br>
   </br>
